@@ -6,7 +6,7 @@ third_party {
     value: "https://github.com/lz4/lz4.git"
   }
   version: "v1.9.2"
-  license_type: NOTICE
+  license_type: RESTRICTED
   last_upgrade_date {
     year: 2020
     month: 4
